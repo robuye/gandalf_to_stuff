@@ -9,7 +9,7 @@ Installation
 
 Add in your gemfile:
 ```
-gem 'gandalf_to_stuff', git: 'git://github/com/robuye/gandalf_to_stuff'
+gem 'gandalf_to_stuff', git: 'git://github.com/robuye/gandalf_to_stuff.git'
 ```
 
 in your application add:
